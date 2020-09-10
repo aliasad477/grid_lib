@@ -1,2 +1,0 @@
-/usr/bin/ar cr libgridf.a  CMakeFiles/gridf.dir/grid.cc.o
-/usr/bin/ranlib libgridf.a
