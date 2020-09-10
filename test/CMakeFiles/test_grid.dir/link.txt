@@ -1,0 +1,1 @@
+/home/asad/local/bin/mpicxx   -O3    CMakeFiles/test_grid.dir/main.cc.o  -o test_grid -rdynamic ../src/libgrid.a -lblitz 

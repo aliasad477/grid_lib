@@ -1,0 +1,9 @@
+prefix=/home/asad/local
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: grid
+Description: grid generation
+Version: 1
+Libs: -L${libdir} -lgridf
+Cflags: -I${includedir}
